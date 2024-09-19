@@ -34,10 +34,5 @@ North star KPIs are Profit and Sales. DAX formulas are created for both the metr
 - Average Shipping Days is around 4 days. Few orders take 5 to 7 days for shipping. It is found that West and East region has more delayed shipping. To overcome the delay, the company may consider setting up Dark Stores in California and New York to enable faster delivery to the customers.
 - The company may choose to collect customer details such as Phone number, Age and Sex. These details will help to analyze the customer behaviour better and improve the customer recommendation.
 
-##### SALES ANALYSIS
-  ![image](https://github.com/user-attachments/assets/c801decc-011d-46c8-ba0d-0014a3120e22)
-  
-##### PROFIT ANALYSIS
-  ![image](https://github.com/user-attachments/assets/689ca979-da09-4cc7-8872-6cdafc6efb14)
 
 
